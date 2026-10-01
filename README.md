@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[Open SkillSync Live Demo](https://skillsync-production-aa9c.up.railway.app/)
+
+
 # SkillSync frontend
 
 React, Vite, JavaScript, Tailwind CSS, React Router, Framer Motion, Recharts, Axios, and Lucide React.
